@@ -10,11 +10,10 @@ const style = theme => ({
     height: 300
   },
   avatarContainer: {
-    display: 'flex',
     flexDirection: 'row',
     height: 70,
     alignItems: 'center',
-    justifyContent: 'spaceBetween',
+    justifyContent: 'space-between',
     marginBottom: 10
   },
   avatar: {
