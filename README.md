@@ -22,4 +22,4 @@ Built using the Boomtown Start from https://github.com/redacademy/boomtown-start
 3. Run 'npm run dev:start' from server and 'npm start' from client
 4. ...Ta-da!
 
-_Author: Julia Browne :sparkles:_# boomtown-app
+_Author: Julia Browne :sparkles:
